@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=200&section=header&text=%3C%20Hi!%20I'm%20Sabrina%20%2F%3E&fontSize=48&fontColor=fff&fontAlignY=45&animation=fadeIn"/>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250px"/>
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Front-End+Developer+%7C+React+%7C+Next.js;Building+clean+%26+responsive+web+apps;Always+learning%2C+always+improving)](https://git.io/typing-svg)
