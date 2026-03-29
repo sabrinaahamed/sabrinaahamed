@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D7377&height=120&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=800&color=0D7377&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Sabrina+Ahamed+👋;Front-End+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Building+beautiful+web+experiences+✨;Always+learning+%26+growing+🌱" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=0D7377&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Sabrina+Ahamed!+%F0%9F%91%8B;Front-End+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Building+beautiful+web+experiences;Always+learning+%26+growing)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,8 +16,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### 👩‍💻 About Me:
 ```javascript
 const sabrina = {
@@ -25,11 +23,9 @@ const sabrina = {
   education   : "BSc in CSE — Eastern University, Bangladesh",
   techStack   : ["React", "Next.js", "Tailwind CSS", "JavaScript"],
   currentFocus: "Full Stack Web Development",
-  funFact     : "I turn coffee into clean UI ☕→💻"
+  funFact     : "I turn coffee into clean UI"
 };
 ```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -50,8 +46,6 @@ const sabrina = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
 ### 📊 GitHub Stats:
@@ -67,16 +61,6 @@ const sabrina = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
-<div align="center">
-
-### 🐍 Contribution Snake:
-
-![snake gif](https://github.com/sabrinaahamed/sabrinaahamed/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D7377&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D7377&height=100&section=footer"/>
