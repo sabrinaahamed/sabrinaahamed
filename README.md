@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=160&section=header&text=Hi!%20I'm%20Sabrina%20%F0%9F%91%8B&fontSize=45&fontColor=fff&fontAlignY=45"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=180&section=header&text=Hi!%20I'm%20Sabrina%20%F0%9F%91%8B&fontSize=42&fontColor=fff&fontAlignY=35&desc=Front-End%20Developer%20%7C%20React%20Lover%20%7C%20UI%20Enthusiast&descAlignY=55&descSize=18"/>
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200px"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250px"/>
 
 <br/>
 
