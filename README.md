@@ -34,9 +34,8 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Sabrina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabrinaahamed&show_icons=true&theme=tokyonight)
+![Sabrina's GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=sabrinaahamed&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaahamed&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sabrinaahamed&layout=compact&theme=tokyonight)
 
 ---
