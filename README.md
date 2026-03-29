@@ -1,10 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi!%20I'm%20Sabrina%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front-End%20Developer%20%7C%20React%20Lover%20%7C%20UI%20Enthusiast&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=180&section=header&text=Hi!%20I'm%20Sabrina%20%F0%9F%91%8B&fontSize=42&fontColor=fff&fontAlignY=35&desc=Front-End%20Developer%20%7C%20React%20Lover%20%7C%20UI%20Enthusiast&descAlignY=55&descSize=18"/>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=26&pause=900&color=FF6B9D&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+%F0%9F%8C%B8;I+build+pretty+things+for+the+web+%F0%9F%92%BB;React+%7C+Next.js+%7C+Tailwind+CSS+%F0%9F%8C%BC;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Front-End+Developer+%7C+React+%7C+Next.js;Building+clean+%26+responsive+web+apps;Always+learning%2C+always+improving)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,22 +14,19 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrinaahamed.official@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabrinaahamed)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sabrinaahamed&color=FF6B9D&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=sabrinaahamed&color=58A6FF&style=for-the-badge&label=Profile+Views)
 
 </div>
 
 ---
 
-### 🌸 About Me:
+### 👩‍💻 About Me:
 
-> 💖 *"I don't just write code — I craft experiences!"*
-
-- 🏢 Interning as **Frontend Developer** @ Creative IT Institute
-- 🎓 BSc in CSE — **Eastern University, Bangladesh**
-- 💻 In love with **React, Next.js & Tailwind CSS**
-- 🌱 Currently leveling up with **Full Stack Web Development**
-- 🎨 Passionate about **clean UI & pixel-perfect designs**
-- ✨ Fun fact: My code works best with music on 🎵
+- 🏢 Currently interning as a **Frontend Developer** at Creative IT Institute
+- 🎓 BSc in CSE from **Eastern University, Bangladesh**
+- 💡 Passionate about building responsive & user-friendly web interfaces
+- 🌱 Currently exploring **Next.js & Full Stack Web Development**
+- ✨ Always learning, building, and improving
 
 ---
 
@@ -54,15 +53,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=sabrinaahamed&show_icons=true&theme=radical&border_radius=15&hide_border=true" height="180"/>
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sabrinaahamed&layout=compact&theme=radical&border_radius=15&hide_border=true" height="180"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=sabrinaahamed&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="180"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sabrinaahamed&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="180"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sabrinaahamed&theme=radical&border_radius=15&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sabrinaahamed&theme=tokyonight&border_radius=10&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer"/>
