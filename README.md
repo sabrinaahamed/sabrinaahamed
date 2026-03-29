@@ -1,6 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d7377,100:1a1a2e&height=150&section=header&text=%3C%20Hi!%20I'm%20Sabrina%20%2F%3E&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
+![header](https://img.shields.io/badge/-%3C%20Hi!%20I'm%20Sabrina%20%2F%3E-0d7377?style=for-the-badge&labelColor=1a1a2e&color=0d7377&logoColor=white)
+
+<h1>< Hi! I'm Sabrina /></h1>
+<h3>🚀 Front-End Developer | React | Next.js | Tailwind CSS</h3>
 
 <br/>
 
@@ -57,7 +60,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=sabrinaahamed&theme=tokyonight&border_radius=10&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d7377,100:1a1a2e&height=80&section=footer"/>
