@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=180&section=header&text=Hi!%20I'm%20Sabrina%20%F0%9F%91%8B&fontSize=42&fontColor=fff&fontAlignY=35&desc=Front-End%20Developer%20%7C%20React%20Lover%20%7C%20UI%20Enthusiast&descAlignY=55&descSize=18"/>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250px"/>
 
 <br/>
 
@@ -13,8 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-ahamed-432b383a8/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrinaahamed.official@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabrinaahamed)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sabrinaahamed&color=58A6FF&style=for-the-badge&label=Profile+Views)
 
 </div>
 
