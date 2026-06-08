@@ -57,7 +57,7 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sabrinaahamed&theme=tokyonight&border_radius=10&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sabrinaahamed&theme=tokyonight&border_radius=10&hide_border=true&cache_seconds=0)](https://git.io/streak-stats)
 
 </div>
 
